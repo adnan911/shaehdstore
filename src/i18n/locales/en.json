@@ -1,0 +1,215 @@
+{
+  "brand": {
+    "name": "Shahed Storee",
+    "tagline": "Timeless Furniture, Crafted for Modern Living",
+    "subTagline": "Discover premium furniture pieces that blend luxury craftsmanship with contemporary design — made for discerning Saudi homes.",
+    "address": "Madina, Kingdom of Saudi Arabia",
+    "whatsappLabel": "Chat on WhatsApp"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "tryAgain": "Try again",
+    "backToHome": "Back to Home",
+    "shopNow": "Shop Now",
+    "viewAll": "View All",
+    "sar": "SAR",
+    "chatOnWhatsapp": "Chat on WhatsApp to Order"
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "explore": "Explore Collection"
+  },
+  "hero": {
+    "headline": "Timeless Furniture,\nCrafted for Modern Living",
+    "subheadline": "Discover premium furniture pieces that blend luxury craftsmanship with contemporary design — made for discerning Saudi homes.",
+    "ctaPrimary": "Explore Collection",
+    "ctaSecondary": "Contact Us",
+    "badges": {
+      "curated": "+30 Curated Pieces",
+      "delivery": "Fast Saudi Delivery",
+      "materials": "Premium Materials"
+    },
+    "stats": {
+      "premiumPieces": "Premium Pieces",
+      "trusted": "Trusted in Saudi Arabia"
+    }
+  },
+  "featured": {
+    "eyebrow": "Featured Collection",
+    "headline": "Our most popular\npieces, handpicked for you",
+    "description": "Each piece in our signature collection is selected for its exceptional craftsmanship, material quality, and timeless appeal.",
+    "cta": "Shop All Pieces"
+  },
+  "collections": {
+    "eyebrow": "Signature Collections",
+    "headline": "Find Your Perfect Piece",
+    "tabs": {
+      "sofa": "Sofas",
+      "bed": "Beds",
+      "dining": "Dining"
+    },
+    "viewAll": "View all {{category}}"
+  },
+  "marquee": [
+    "FURNITURE", "INTERIOR", "DESIGN", "LUXURY", "MADINA", "CRAFTSMANSHIP", "SAUDI ARABIA", "TIMELESS"
+  ],
+  "aboutSection": {
+    "eyebrow": "Our Story",
+    "headline": "Built on a Passion for Beautiful Living",
+    "body": "At Shahed Storee, we believe your home deserves furniture as unique as you are. Founded in the heart of Saudi Arabia, we curate premium furniture pieces that marry timeless design with contemporary sensibility.\n\nEvery piece in our collection is hand-selected for material quality, durability, and aesthetic excellence — ensuring your investment lasts a lifetime.",
+    "stats": {
+      "curated": "Curated Pieces",
+      "materials": "Premium Materials",
+      "coverage": "Delivery Coverage"
+    },
+    "cta": "Our Story"
+  },
+  "quality": {
+    "eyebrow": "Our Commitment",
+    "headline": "Eco-Friendly Designs,\nTimeless Quality",
+    "description": "We partner with manufacturers who share our values — sustainable sourcing, ethical production, and uncompromising quality standards.",
+    "pillars": {
+      "sustainable": {
+        "title": "Sustainable Materials",
+        "desc": "Responsibly sourced wood, natural fabrics, and eco-conscious finishes."
+      },
+      "craftsmanship": {
+        "title": "Premium Craftsmanship",
+        "desc": "Every joint, stitch, and finish is held to the highest standard."
+      },
+      "delivery": {
+        "title": "White Glove Delivery",
+        "desc": "We deliver and set up your furniture with care across Saudi Arabia."
+      }
+    }
+  },
+  "faqPreview": {
+    "eyebrow": "FAQ",
+    "headline": "Common Questions",
+    "cta": "See all questions"
+  },
+  "ctaBanner": {
+    "badge": "Start Today",
+    "headline": "Let's Create Your\nDream Living Space",
+    "subheadline": "Chat with our furniture experts on WhatsApp and get personalized recommendations for your home.",
+    "cta": "Start the Conversation"
+  },
+  "footer": {
+    "description": "Premium furniture curated for modern Saudi living. Timeless pieces, exceptional quality.",
+    "links": "Quick Links",
+    "policies": "Policies",
+    "rights": "Shahed Storee. All rights reserved."
+  },
+  "aboutPage": {
+    "badge": "Our Story",
+    "headline": "Crafting Beautiful Spaces,\nOne Piece at a Time",
+    "body1": "Shahed Storee was born from a simple belief: everyone deserves a home that feels both luxurious and personal. Founded in Madina, we set out to bring world-class furniture to Saudi homemakers — pieces that tell a story, built to last generations.",
+    "body2": "Our team personally curates every item in our collection, working directly with manufacturers who share our commitment to quality, sustainability, and ethical production. From Italian leather sofas to hand-carved dining tables, each piece carries the mark of true craftsmanship.",
+    "body3": "We are proud to serve customers across Saudi Arabia, delivering premium furniture with the care and attention it deserves.",
+    "valuesBadge": "Our Values",
+    "valuesHeadline": "What Drives Us",
+    "values": {
+      "quality": { "title": "Quality First", "desc": "Every piece is vetted for materials, construction, and longevity before it earns a place in our collection." },
+      "sustainability": { "title": "Sustainability", "desc": "We prioritize responsibly sourced materials and eco-conscious manufacturing partners." },
+      "customer": { "title": "Customer Focus", "desc": "Your satisfaction is our measure of success. We're always here on WhatsApp to help." },
+      "heritage": { "title": "Saudi Heritage", "desc": "Proudly serving the Kingdom — our designs respect both modern tastes and traditional values." }
+    },
+    "ctaHeadline": "Ready to find your piece?",
+    "ctaSub": "Explore our full collection or chat with us on WhatsApp.",
+    "whatsappUs": "WhatsApp Us"
+  },
+  "contactPage": {
+    "headline": "Get in Touch",
+    "subheadline": "Have a question? Want to see more photos? Ready to order? We're just a message away.",
+    "hours": "Sat–Thu, 9 AM – 9 PM (KSA)"
+  },
+  "shopPage": {
+    "header": {
+      "title": "Our Collection",
+      "subtitle": "Discover premium furniture pieces for every room."
+    },
+    "filters": {
+      "categories": "Categories",
+      "materials": "Materials",
+      "allCategories": "All Categories",
+      "allMaterials": "All Materials",
+      "sort": {
+        "label": "Sort By",
+        "newest": "Newest Arrivals",
+        "priceAsc": "Price: Low to High",
+        "priceDesc": "Price: High to Low",
+        "nameAsc": "Alphabetical (A-Z)"
+      },
+      "results": "{{count}} piece",
+      "resultsPlural": "{{count}} pieces"
+    },
+    "empty": {
+      "title": "No pieces found",
+      "desc": "Try adjusting your filters to find the perfect piece.",
+      "clearFilters": "Clear all filters"
+    }
+  },
+  "productDetails": {
+    "deliveryArea": "Delivery Area",
+    "selectCity": "Select your city",
+    "deliveryTime": "Delivery time confirmed upon order via WhatsApp",
+    "morePricingMsg": "We'll confirm pricing, delivery timeline, and payment details on WhatsApp."
+  },
+  "policies": {
+    "shipping": {
+      "title": "Shipping Policy",
+      "content": "**Delivery Areas**\nWe deliver across Saudi Arabia, including Madina, Jeddah, Dammam, Makkah, Madinah, and other cities.\n\n**Delivery Times**\n- Madina: 3–5 business days\n- Major cities: 5–7 business days\n- Remote areas: 7–14 business days\n\n**Delivery Fees**\nDelivery fees vary by location and order size. Final delivery cost is confirmed at time of order via WhatsApp.\n\n**White Glove Service**\nOur team delivers and assembles furniture in your home at no extra charge within Madina."
+    },
+    "returns": {
+      "title": "Return Policy",
+      "content": "**Return Window**\nWe accept returns within 7 days of delivery for items in original, unused condition.\n\n**Conditions**\n- Item must be in original packaging or returned without damage\n- Custom and made-to-order items are non-returnable\n- Assembly and delivery fees are non-refundable\n\n**How to Return**\nContact us on WhatsApp to initiate a return. We will arrange pickup at a time convenient for you.\n\n**Refunds**\nRefunds are processed within 5–10 business days after item inspection."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "**Data We Collect**\nWe collect your name, phone number, and order details as provided through WhatsApp.\n\n**How We Use Your Data**\nYour information is used solely to process and deliver your orders. We do not sell or share your data with third parties.\n\n**WhatsApp Communication**\nBy contacting us via WhatsApp, you consent to communication through this platform for order-related purposes.\n\n**Contact**\nFor privacy concerns, contact us at hello@shahedstoree.sa"
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "content": "**1. Orders**\nAll orders are placed via WhatsApp and confirmed by our team. An order is binding upon confirmation of payment.\n\n**2. Pricing**\nAll prices are listed in SAR (Saudi Riyal) and include VAT. Prices are subject to change without notice.\n\n**3. Payment**\nPayment details are provided at time of order confirmation via WhatsApp.\n\n**4. Liability**\nShahed Storee is not liable for delays caused by circumstances beyond our control, including customs, natural events, or logistics disruptions.\n\n**5. Governing Law**\nThese terms are governed by the laws of the Kingdom of Saudi Arabia."
+    }
+  },
+  "faqs": [
+    {
+      "q": "Do you deliver across Saudi Arabia?",
+      "a": "Yes, we deliver to all major cities in Saudi Arabia. Delivery times vary by area — contact us on WhatsApp for your specific location."
+    },
+    {
+      "q": "Can I see the furniture before buying?",
+      "a": "We currently operate online only. All product images are high-quality and accurately represent the pieces. Contact us for more photos or videos of any item."
+    },
+    {
+      "q": "What materials do you use?",
+      "a": "Our collection features premium materials including Italian leather, solid hardwood, sintered stone, and high-grade fabric upholstery."
+    },
+    {
+      "q": "How do I place an order?",
+      "a": "Simply chat with us on WhatsApp! Select your desired piece, choose your variants, and we'll guide you through the order and delivery process."
+    },
+    {
+      "q": "What is your return policy?",
+      "a": "We accept returns within 7 days of delivery if the item is in original condition. Custom or made-to-order pieces are non-returnable. See our full Returns Policy for details."
+    },
+    {
+      "q": "Do you offer custom sizes or fabrics?",
+      "a": "Many of our pieces are available in custom sizes and fabric options. Please contact us on WhatsApp to discuss customization options and lead times."
+    },
+    {
+      "q": "How long does delivery take?",
+      "a": "Standard delivery within Madina takes 3–5 business days. Delivery to other cities varies from 5–10 business days. We'll confirm the timeline when you order."
+    },
+    {
+      "q": "Are prices negotiable?",
+      "a": "Our prices are fixed and reflect the premium quality of our pieces. However, we occasionally run seasonal promotions. Follow us on social media to stay updated."
+    }
+  ]
+}
